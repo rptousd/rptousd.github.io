@@ -1,0 +1,1 @@
+document.write('<script type="text/javascript">atOptions = {\'key\' : \'bcbc94a348a3439bfb33dacec5b15138\',\'format\' : \'iframe\',\'height\' : 600,\'width\' : 160,\'params\' : {}};</script><script type="text/javascript" src="//www.topcreativeformat.com/bcbc94a348a3439bfb33dacec5b15138/invoke.js"></script>');
